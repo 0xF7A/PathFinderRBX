@@ -5,7 +5,7 @@ The Pathfinder module provides a robust, dynamic waypoint system for Roblox char
 # Installation
 
 ```lua
-local PF = loadstring(game:HttpGet("0xF7A"))
+local PF = loadstring(game:HttpGet("https://raw.githubusercontent.com/0xF7A/PathFinderRBX/refs/heads/main/main.luau"))
 PF.new()
 ```
 
@@ -193,4 +193,4 @@ pf:SetWalkingEnabled(false)
 pf:Destroy()
 ```
 
-~# build 0.1.3b-22026
+~ build 0.1.3b-22026
